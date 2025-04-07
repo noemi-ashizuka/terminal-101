@@ -1,0 +1,16 @@
+pwd => present working directory (where am I)
+ls OR ll OR la -> shows everything we have inside the current folder
+cd folder_name -> moves to the folder with that folder_name
+cd .. -> moves back to the folder above
+mkdir new_folder_name -> creates a new folder in the current directory
+touch new_filename -> creates a file
+rm filename -> removes the file
+rm -r folder_name -> removes a folder
+rm -rf folder_name -> force the removes
+mv filename existing_folder_name -> moves a file to another folder
+mv old_filename new_filename -> renames the file
+cat filename -> shows the content of a file in the terminal
+code . -> opens the current folder in vs code
+open . -> opens a file with finder (mac)
+open index.html -> opens a file with the default application (mac)
+explorer.exe . -> opens a file with the default application or file explorer (windows)
